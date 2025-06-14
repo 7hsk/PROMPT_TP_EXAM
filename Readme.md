@@ -1,40 +1,36 @@
-# 🚀 Cursor AI - Analyse et Démonstration
+# 🚀 PROMPT-IG: Analyse de Cursor - Solution d'IA Générative pour le Code
 
 <div align="center">
 
-![AI Code Analysis](https://img.shields.io/badge/AI%20Powered-Cursor-blue?style=for-the-badge&logo=cursor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=PROMPT-IG;Analyse+de+Cursor;Solution+d'IA+G%C3%A9n%C3%A9rative" alt="Typing SVG" />
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cursor-ai-analysis?style=social)](https://github.com/yourusername/cursor-ai-analysis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/cursor-ai-analysis?style=social)](https://github.com/yourusername/cursor-ai-analysis/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/cursor-ai-analysis)](https://github.com/yourusername/cursor-ai-analysis/issues)
-[![GitHub license](https://img.shields.io/github/license/yourusername/cursor-ai-analysis)](https://github.com/yourusername/cursor-ai-analysis/blob/main/LICENSE)
+[![AI Code Analysis](https://img.shields.io/badge/AI%20Powered-Cursor-blue?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Une analyse approfondie des solutions d'IA générative pour le développement de code moderne**
-
-[![Watch the video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge)](https://youtube.com/your-demo-video)
+**Une analyse complète des solutions d'IA générative pour le développement de code moderne**
 
 </div>
 
 ## 📋 Table des Matières
 
 - [🎯 Vue d'Ensemble](#-vue-densemble)
-- [📁 Structure du Projet](#-structure-du-projet)
-- [⭐ Fonctionnalités](#-fonctionnalités)
-- [⚡ Démarrage Rapide](#-démarrage-rapide)
-- [🔧 Exemples de Code](#-exemples-de-code)
-- [📊 Comparaisons](#-comparaisons)
-- [🐛 Débogage avec IA](#-débogage-avec-ia)
-- [🤝 Contribution](#-contribution)
-- [📝 Licence](#-licence)
+- [🔧 Partie 2 – Génération de code avec IA](#-partie-2--génération-de-code-avec-ia)
+  - [Exercice 2.1](#exercice-21)
+  - [Exercice 2.2](#exercice-22)
+- [🔬 Analyse Critique](#-analyse-critique)
+- [🔧 Partie 3 – Débogage et Amélioration du Code](#-partie-3--débogage-et-amélioration-du-code)
+  - [Exercice 3.2](#exercice-32--analyse-du-code-de-tri)
+  - [Exercice 3.3](#exercice-33--gestion-des-permissions-utilisateur)
+- [📊 Analyse de la Documentation](#-analyse-de-la-documentation)
+- [📞 Contact](#-contact)
 
 ## 🎯 Vue d'Ensemble
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=100&lines=Analyse+de+Cursor;Solution+d'IA+G%C3%A9n%C3%A9rative;Pour+le+D%C3%A9veloppement+de+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Découvrez+Comment+l'IA;Révolutionne+le+Développement" alt="Typing SVG" />
 </div>
 
 Ce projet présente une **analyse approfondie de Cursor**, un éditeur de code alimenté par l'IA qui révolutionne l'expérience de développement. Découvrez comment l'intelligence artificielle peut :
@@ -43,403 +39,628 @@ Ce projet présente une **analyse approfondie de Cursor**, un éditeur de code a
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7buirYyX5BkX5kpy/giphy.gif" width="100"/>
+        <img src="https://img.shields.io/badge/🧠-Comprendre%20le%20contexte-blue?style=for-the-badge" alt="Comprendre le contexte" />
         <br/>
-        <b>Comprendre le contexte</b>
+        <sub>Analyse intelligente du projet</sub>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7buirYyX5BkX5kpy/giphy.gif" width="100"/>
+        <img src="https://img.shields.io/badge/⚡-Accélérer%20le%20développement-green?style=for-the-badge" alt="Accélérer le développement" />
         <br/>
-        <b>Accélérer le développement</b>
+        <sub>Suggestions en temps réel</sub>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7buirYyX5BkX5kpy/giphy.gif" width="100"/>
+        <img src="https://img.shields.io/badge/🔍-Détecter%20les%20erreurs-red?style=for-the-badge" alt="Détecter les erreurs" />
         <br/>
-        <b>Détecter les erreurs</b>
+        <sub>Correction automatique</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📚-Apprendre%20vos%20conventions-purple?style=for-the-badge" alt="Apprendre vos conventions" />
+        <br/>
+        <sub>Adaptation au style</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎨-Générer%20du%20code-orange?style=for-the-badge" alt="Générer du code" />
+        <br/>
+        <sub>Code de qualité</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀-Optimiser%20les%20performances-yellow?style=for-the-badge" alt="Optimiser les performances" />
+        <br/>
+        <sub>Code optimisé</sub>
       </td>
     </tr>
   </table>
 </div>
 
-## 📁 Structure du Projet
-
-```mermaid
-graph TD
-    A[📁 Root] --> B[📄 Documentation]
-    A --> C[🔢 Math Operations]
-    A --> D[🏷️ Code Formatting]
-    A --> E[🧮 Calculators]
-    A --> F[📊 Data Analysis]
-    A --> G[🔒 Permissions]
-
-    B --> B1[README.md]
-    B --> B2[do.txt]
-    B --> B3[cursor_chat.md]
-    B --> B4[TP_GenAI_code.pdf]
-
-    C --> C1[operations.py]
-    C --> C2[calculate.py]
-    C --> C3[math_operations.py]
-    C --> C4[test_*.py]
-
-    D --> D1[product_code.py]
-    D --> D2[product_code_v2.py]
-    D --> D3[test_*.py]
-
-    E --> E1[calculator_*.html]
-    E --> E2[calculator_*.css]
-    E --> E3[calculator_*.js]
-
-    F --> F1[calculate_average.py]
-    F --> F2[test_*.py]
-
-    G --> G1[ex3.2.py]
-    G --> G2[ex3.3.py]
-```
-
-## ⭐ Fonctionnalités
+### 1. Solution choisie
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Cursor-Editor%20Powered%20by%20AI-blue?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </div>
 
-### 🔥 Points Forts de Cursor
+### 2. Description
 
-<table>
-<tr>
-<td width="50%">
+Cursor est un éditeur de code alimenté par l'IA, basé sur Visual Studio Code, qui intègre des modèles d'IA avancés (GPT-4, Claude) pour assister les développeurs dans l'écriture, la modification et la compréhension du code. Il offre une expérience de développement native avec des fonctionnalités d'IA intégrées directement dans l'interface de codage.
 
-#### 🎯 **Intégration Native**
+### 3. Avantages perçus de cette solution pour le développement de code
 
-- Interface familière basée sur VS Code
-- Assistance contextuelle sans interruption
-- Support multi-langages performant
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Les+Avantages+de+Cursor" alt="Typing SVG" />
+</div>
 
-</td>
-<td width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻-Intégration%20Native-blue?style=for-the-badge" alt="Intégration Native" />
+        <br/>
+        <sub>Assistance contextuelle sans quitter l'éditeur</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🧠-Compréhension%20du%20Contexte-green?style=for-the-badge" alt="Compréhension du Contexte" />
+        <br/>
+        <sub>Analyse intelligente du codebase</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔄-Refactoring%20Avancé-purple?style=for-the-badge" alt="Refactoring Avancé" />
+        <br/>
+        <sub>Optimisation intelligente du code</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐-Multi--langages-orange?style=for-the-badge" alt="Multi-langages" />
+        <br/>
+        <sub>Support de nombreux langages</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### 🧠 **Intelligence Contextuelle**
+### 4. Inconvénients ou limites perçues de cette solution
 
-- Analyse complète du codebase
-- Suggestions cohérentes avec l'architecture
-- Refactoring intelligent
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=Les+Limites+de+Cursor" alt="Typing SVG" />
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐-Dépendance%20Internet-red?style=for-the-badge" alt="Dépendance Internet" />
+        <br/>
+        <sub>Nécessite une connexion stable</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💰-Coût%20d'Abonnement-yellow?style=for-the-badge" alt="Coût d'Abonnement" />
+        <br/>
+        <sub>Fonctionnalités avancées payantes</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔒-Sécurité%20et%20Confidentialité-purple?style=for-the-badge" alt="Sécurité et Confidentialité" />
+        <br/>
+        <sub>Code envoyé vers des serveurs externes</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚠️-Dépendance%20à%20l'IA-orange?style=for-the-badge" alt="Dépendance à l'IA" />
+        <br/>
+        <sub>Risque de diminution des compétences</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### ⚡ **Performance**
+### 5. Cas d'utilisation typiques
 
-- Génération de code en temps réel
-- Optimisation automatique
-- Détection d'erreurs proactive
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Cas+d'Utilisation+de+Cursor" alt="Typing SVG" />
+</div>
 
-</td>
-<td width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/✨-Nouvelles%20Fonctionnalités-blue?style=for-the-badge" alt="Nouvelles Fonctionnalités" />
+        <br/>
+        <sub>Accélération du développement</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔄-Refactoring%20et%20Optimisation-green?style=for-the-badge" alt="Refactoring et Optimisation" />
+        <br/>
+        <sub>Modernisation du code legacy</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📚-Apprentissage%20et%20Formation-purple?style=for-the-badge" alt="Apprentissage et Formation" />
+        <br/>
+        <sub>Outil pédagogique pour juniors</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀-Prototypes%20et%20MVPs-orange?style=for-the-badge" alt="Prototypes et MVPs" />
+        <br/>
+        <sub>Développement rapide de concepts</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### 🔒 **Limitations**
+## 🔧 Partie 2 – Génération de code avec IA
 
-- Dépendance à la connectivité
-- Coût d'abonnement
-- Questions de confidentialité
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Génération+de+Code+avec+IA;Exercices+Pratiques" alt="Typing SVG" />
+</div>
 
-</td>
-</tr>
-</table>
+### Exercice 2.1
 
-## ⚡ Démarrage Rapide
+<div align="center">
+  <img src="https://img.shields.io/badge/📝-Prompt-blue?style=for-the-badge" alt="Prompt" />
+</div>
 
-### 1️⃣ **Installation**
+```python
+"Écris une fonction pour faire des opérations entre deux nombres en Python."
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/❓-Questions%20et%20Réponses-green?style=for-the-badge" alt="Questions et Réponses" />
+</div>
+
+<details>
+<summary>📋 Voir les questions et réponses</summary>
+
+#### La fonction est-elle nommée ?
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/➕-Addition-blue?style=for-the-badge" alt="Addition" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/➖-Soustraction-green?style=for-the-badge" alt="Soustraction" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/✖️-Multiplication-purple?style=for-the-badge" alt="Multiplication" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/➗-Division-orange?style=for-the-badge" alt="Division" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### Quelles opérations sont prises en charge ?
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/a%20%2B%20b-Addition-blue?style=for-the-badge" alt="Addition" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/a%20-%20b-Soustraction-green?style=for-the-badge" alt="Soustraction" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/a%20*%20b-Multiplication-purple?style=for-the-badge" alt="Multiplication" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/a%20/%20b-Division-orange?style=for-the-badge" alt="Division" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### Y a-t-il une gestion des erreurs ?
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✅-Gestion%20de%20la%20division%20par%20zéro-green?style=for-the-badge" alt="Gestion des erreurs" />
+</div>
+
+```python
+if b == 0:
+    raise ZeroDivisionError("La division par zéro n'est pas possible")
+```
+
+#### Y a-t-il des commentaires ?
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📝-Description-blue?style=for-the-badge" alt="Description" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Types-green?style=for-the-badge" alt="Types" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📋-Args-purple?style=for-the-badge" alt="Args" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/↩️-Returns-orange?style=for-the-badge" alt="Returns" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</details>
+
+### Exercice 2.2
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Analyse+des+Versions;Comparaison+des+Implémentations" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Version%201-blue?style=for-the-badge" alt="Version 1" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Version%202-green?style=for-the-badge" alt="Version 2" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Version%203-purple?style=for-the-badge" alt="Version 3" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary>📋 Voir l'analyse détaillée</summary>
+
+#### Version 1 - Fonctions Séparées
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✅-Avantages-green?style=for-the-badge" alt="Avantages" />
+</div>
+
+- Modularité accrue
+- Tests unitaires plus faciles
+- Maintenance simplifiée
+- Documentation claire
+
+<div align="center">
+  <img src="https://img.shields.io/badge/❌-Inconvénients-red?style=for-the-badge" alt="Inconvénients" />
+</div>
+
+- Duplication de code
+- Interface moins intuitive
+- Gestion d'erreurs répétitive
+
+#### Version 2 - Fonction Unifiée
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✅-Avantages-green?style=for-the-badge" alt="Avantages" />
+</div>
+
+- Interface plus simple
+- Code plus concis
+- Gestion d'erreurs centralisée
+
+<div align="center">
+  <img src="https://img.shields.io/badge/❌-Inconvénients-red?style=for-the-badge" alt="Inconvénients" />
+</div>
+
+- Moins modulaire
+- Tests plus complexes
+- Documentation moins détaillée
+
+#### Version 3 - Solution Optimale
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✨-Caractéristiques-purple?style=for-the-badge" alt="Caractéristiques" />
+</div>
+
+- Combinaison des avantages
+- Interface unifiée
+- Tests complets
+- Documentation exhaustive
+
+</details>
+
+## 🔬 Analyse Critique
+
+### 1) Influence des Exemples sur la Précision du Code Généré
+
+L'ajout d'exemples concrets a significativement amélioré la capacité de l'IA à :
+
+- **Comprendre les règles implicites**  
+  Le premier prompt (sans exemple) a produit un format de tirets différent (`XXX-XXXX-XXX`). Les exemples ont clarifié le pattern exact (`XXX-XXX-XXXX`), éliminant toute ambiguïté.
+
+- **Renforcer la gestion des erreurs**  
+  Bien que la logique de validation soit restée identique, l'exemple d'erreur `"SHORT"` a :
+
+  - Forcé l'inclusion explicite de ce cas dans les tests automatisés
+  - Garanti que le message d'erreur soit cohérent avec les autres cas
+  - Documenté le comportement attendu dans le docstring
+
+- **Généraliser correctement**  
+  L'IA a extrapolé à partir des exemples fournis pour :
+  - Maintenir la validation alphanumérique existante
+  - Conserver les mêmes types d'exceptions (ValueError)
+  - Adapter le formatage sans affecter les autres fonctionnalités
+
+### 2) Utilité du "Few-Shot Prompting" en Développement
+
+Cette technique est particulièrement utile pour :
+
+✔ **Cas complexes avec règles non standard**  
+ (ex: formats personnalisés comme les codes produits)  
+✔ **API avec comportements contextuels**
+
+## 🔧 Partie 3 – Débogage et Amélioration du Code
+
+### Exercice 3.2 : Analyse du Code de Tri
+
+#### 1. Fonction du Code
+
+Ce code implémente un algorithme de tri par sélection (Selection Sort) qui ordonne le tableau `a` dans l'ordre croissant.
+
+##### Principe :
+
+- Compare chaque élément `a[i]` avec les éléments suivants `a[j]`
+- Si `a[i] > a[j]`, échange les valeurs pour placer le plus petit élément en position `i`
+- Répète ce processus pour chaque index `i` jusqu'à tri complet
+
+##### Résultat :
+
+Le tableau `a = [5, 3, 8, 6, 7, 2]` devient `[2, 3, 5, 6, 7, 8]`
+
+#### 2. Défauts de Lisibilité
+
+##### Noms de variables peu explicites :
+
+- `a` → Nom trop générique (préférer `array`, `numbers`)
+- `tmp` → Temporaire mal décrit (préférer `temp_value` ou utiliser un échange direct en Python)
+
+##### Boucles imbriquées non commentées :
+
+- Pas d'indication sur le rôle de `i` et `j`
+
+##### Échange manuel peu pythonique :
+
+- Python permet un échange direct : `a[i], a[j] = a[j], a[i]`
+
+##### Absence de docstring/fonction :
+
+- Le code est "nu" (pas encapsulé dans une fonction avec documentation)
+
+##### Optimisation manquante :
+
+- Le tri par sélection est lent (O(n²)) – pas adapté pour de grands tableaux
+
+### Exercice 3.3 : Gestion des Permissions Utilisateur
+
+Ce module Python fournit une interface robuste pour gérer et vérifier les permissions des utilisateurs dans différents contextes système.
+
+#### Installation
 
 ```bash
-# Cloner le repository
-git clone https://github.com/yourusername/cursor-ai-analysis.git
-cd cursor-ai-analysis
-
-# Installer les dépendances Python
 pip install -r requirements.txt
 ```
 
-### 2️⃣ **Exécution des Exemples**
+#### Utilisation
 
-```bash
-# Tester les opérations mathématiques
-python math_operations.py
+##### Prérequis
 
-# Lancer la calculatrice web
-open calculator_modern.html
+Le module nécessite les dépendances suivantes :
 
-# Tester le formatage de codes produits
-python product_code_v2.py
-```
+- Python 3.7+
+- typing
+- dataclasses
+- logging
 
-## 🔧 Exemples de Code
+##### Configuration du Contexte Système
 
-### 🧮 **Opérations Mathématiques Robustes**
-
-<details>
-<summary>🔍 Voir l'implémentation complète</summary>
-
-Le code complet est disponible dans `math_operations.py`. Voici un extrait des fonctionnalités clés :
+Avant d'utiliser la fonction `get_user_permissions`, vous devez créer un objet `SystemContext` :
 
 ```python
-from typing import Union
+from datetime import datetime
+from ex3.3 import SystemContext
 
-VALID_OPERATORS = ['+', '-', '*', '/']
-
-def math_operations(a: Union[int, float], b: Union[int, float], op: str) -> float:
-    """
-    Effectue une opération mathématique entre deux nombres.
-
-    Args:
-        a: Premier nombre
-        b: Deuxième nombre
-        op: Opérateur (+, -, *, /)
-
-    Returns:
-        Résultat de l'opération
-
-    Raises:
-        ValueError: Si l'opérateur n'est pas valide
-        ZeroDivisionError: Si division par zéro
-
-    Examples:
-        >>> math_operations(10, 5, '+')
-        15.0
-        >>> math_operations(10, 0, '/')
-        Traceback (most recent call last):
-        ...
-        ZeroDivisionError: Division par zéro impossible
-    """
-    if op not in VALID_OPERATORS:
-        raise ValueError(f"Opérateur '{op}' non valide. Utilisez: {', '.join(VALID_OPERATORS)}")
-
-    if op == '/' and b == 0:
-        raise ZeroDivisionError("Division par zéro impossible")
-
-    operations = {
-        '+': lambda x, y: x + y,
-        '-': lambda x, y: x - y,
-        '*': lambda x, y: x * y,
-        '/': lambda x, y: round(x / y, 2)
-    }
-
-    return operations[op](a, b)
+# Création d'un contexte système
+context = SystemContext(
+    system_id="sys_123",      # Identifiant unique du système
+    environment="production",  # Environnement (dev, prod, etc.)
+    timestamp=datetime.now()  # Optionnel, par défaut = maintenant
+)
 ```
 
-Les tests unitaires sont disponibles dans `test_math_operations.py`.
+##### Récupération des Permissions
 
-</details>
+La fonction `get_user_permissions` accepte deux paramètres :
 
-### 🏷️ **Formatage de Codes Produits**
-
-<details>
-<summary>🔍 Voir l'implémentation complète</summary>
-
-Le code complet est disponible dans `product_code_v2.py`. Voici un extrait des fonctionnalités clés :
+- `user_id` : Identifiant de l'utilisateur (entier ou chaîne)
+- `system_context` : Contexte système (objet SystemContext)
 
 ```python
-def format_product_code(product_id: str) -> str:
-    """
-    Formate un code produit de 10 caractères avec des tirets.
+from ex3.3 import get_user_permissions, SystemContext
 
-    Args:
-        product_id: Code produit alphanumérique de 10 caractères
+# Exemple avec un utilisateur normal
+context = SystemContext("sys_123", "production")
+permissions = get_user_permissions(42, context)
+print(permissions)
+# Résultat :
+# {
+#     'resource_1': [PermissionLevel.READ, PermissionLevel.WRITE],
+#     'resource_2': [PermissionLevel.READ]
+# }
 
-    Returns:
-        Code formaté (ex: 'ABC-123-DEF4')
-
-    Raises:
-        ValueError: Si le code est invalide
-
-    Examples:
-        >>> format_product_code('ABC123DEF4')
-        'ABC-123-DEF4'
-        >>> format_product_code('SHORT')
-        Traceback (most recent call last):
-        ...
-        ValueError: Le code produit doit contenir exactement 10 caractères
-    """
-    if len(product_id) != 10:
-        raise ValueError("Le code produit doit contenir exactement 10 caractères")
-
-    if not product_id.isalnum():
-        raise ValueError("Le code produit ne peut contenir que des caractères alphanumériques")
-
-    return f"{product_id[:3]}-{product_id[3:6]}-{product_id[6:]}"
+# Exemple avec un utilisateur admin
+admin_permissions = get_user_permissions("admin_1", context)
+print(admin_permissions)
+# Résultat :
+# {
+#     'resource_1': [PermissionLevel.ADMIN],
+#     'resource_2': [PermissionLevel.ADMIN],
+#     'resource_3': [PermissionLevel.ADMIN]
+# }
 ```
 
-Les tests unitaires sont disponibles dans `test_product_code_v2.py`.
+##### Niveaux de Permission
 
-</details>
-
-### 🧮 **Calculatrice Interactive**
-
-<details>
-<summary>🔍 Voir l'implémentation complète</summary>
-
-Le code complet est disponible dans les fichiers suivants :
-
-- `calculator_modern.html` : Interface utilisateur
-- `calculator_modern.css` : Styles modernes
-- `calculator_modern.js` : Logique de la calculatrice
-
-Voici un extrait des fonctionnalités clés :
-
-```html
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Calculatrice Moderne</title>
-    <link rel="stylesheet" href="calculator_modern.css" />
-  </head>
-  <body>
-    <div class="calculator">
-      <div class="display" id="display">0</div>
-      <div class="buttons">
-        <!-- Interface utilisateur moderne -->
-      </div>
-    </div>
-    <script src="calculator_modern.js"></script>
-  </body>
-</html>
-```
-
-</details>
-
-## 📊 Comparaisons
-
-### 🔄 **Évolution des Prompts**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-| Critère            | Prompt Vague | Prompt Spécifique | Impact |
-| ------------------ | ------------ | ----------------- | ------ |
-| **Précision**      | ⭐⭐         | ⭐⭐⭐⭐⭐        | +150%  |
-| **Robustesse**     | ⭐⭐         | ⭐⭐⭐⭐⭐        | +200%  |
-| **Maintenabilité** | ⭐⭐         | ⭐⭐⭐⭐⭐        | +180%  |
-| **Documentation**  | ⭐           | ⭐⭐⭐⭐⭐        | +400%  |
-
-### 🎯 **Few-Shot vs Zero-Shot Prompting**
-
-```diff
-- Prompt Vague: "Crée une fonction pour faire des opérations"
-+ Prompt Spécifique: "Crée une fonction Python robuste avec gestion d'erreurs,
-+ documentation complète, et tests unitaires pour les 4 opérations de base"
-
-# Résultat: Code production-ready immédiatement 🚀
-```
-
-## 🐛 Débogage avec IA
-
-### 🔍 **Analyse de Code Legacy**
-
-<details>
-<summary>🔧 Exemple de refactoring automatique</summary>
-
-Le code complet est disponible dans `ex3.2.py`. Voici un exemple de refactoring :
-
-**Avant (Code Legacy):**
+Les permissions sont représentées par l'énumération `PermissionLevel` :
 
 ```python
-# Code peu lisible et non optimisé
-def sort_array(a):
-    for i in range(len(a)):
-        for j in range(i+1, len(a)):
-            if a[i] > a[j]:
-                tmp = a[i]
-                a[i] = a[j]
-                a[j] = tmp
-    return a
+from ex3.3 import PermissionLevel
+
+# Niveaux disponibles
+PermissionLevel.NONE   # 0 - Aucune permission
+PermissionLevel.READ   # 1 - Permission de lecture
+PermissionLevel.WRITE  # 2 - Permission d'écriture
+PermissionLevel.ADMIN  # 3 - Permission d'administration
 ```
 
-**Après (Optimisé par IA):**
+##### Gestion des Erreurs
+
+La fonction peut lever les exceptions suivantes :
 
 ```python
-def sort_array(numbers: List[int]) -> List[int]:
-    """
-    Trie un tableau d'entiers par ordre croissant.
-
-    Args:
-        numbers: Liste d'entiers à trier
-
-    Returns:
-        Liste triée par ordre croissant
-
-    Time Complexity: O(n log n)
-    Space Complexity: O(1)
-    """
-    return sorted(numbers)  # Plus pythonique et performant
-
-# Ou pour un tri en place:
-def sort_array_inplace(numbers: List[int]) -> None:
-    """Trie le tableau en place."""
-    numbers.sort()
+try:
+    permissions = get_user_permissions(user_id, context)
+except ValueError as e:
+    # Levé si :
+    # - L'user_id est vide
+    # - Le contexte système est invalide
+    print(f"Erreur de validation : {e}")
+except PermissionError as e:
+    # Levé si l'utilisateur n'a pas les droits
+    # pour accéder aux informations de permission
+    print(f"Erreur de permission : {e}")
 ```
 
-</details>
+##### Exemple Complet
 
-### 🎨 **Amélioration de la Lisibilité**
+```python
+from ex3.3 import get_user_permissions, SystemContext, PermissionLevel
+from datetime import datetime
 
-| Aspect            | Avant                | Après                                    | Amélioration |
-| ----------------- | -------------------- | ---------------------------------------- | ------------ |
-| **Nommage**       | `a`, `tmp`, `i`, `j` | `numbers`, `temp_value`, `current_index` | +300%        |
-| **Documentation** | Aucune               | Docstring complet + exemples             | +∞%          |
-| **Performance**   | O(n²)                | O(n log n)                               | +1000%       |
-| **Pythonisme**    | Basique              | Idiomatique                              | +200%        |
+def check_user_access(user_id: str) -> None:
+    # Création du contexte
+    context = SystemContext(
+        system_id="sys_123",
+        environment="production",
+        timestamp=datetime.now()
+    )
 
-## 🚀 Résultats et Conclusions
+    try:
+        # Récupération des permissions
+        permissions = get_user_permissions(user_id, context)
 
-### 📈 **Métriques de Performance**
+        # Vérification des permissions
+        if "resource_1" in permissions:
+            resource_permissions = permissions["resource_1"]
+            if PermissionLevel.ADMIN in resource_permissions:
+                print(f"L'utilisateur {user_id} a les droits d'administration")
+            elif PermissionLevel.WRITE in resource_permissions:
+                print(f"L'utilisateur {user_id} a les droits d'écriture")
+            elif PermissionLevel.READ in resource_permissions:
+                print(f"L'utilisateur {user_id} a les droits de lecture")
+    except (ValueError, PermissionError) as e:
+        print(f"Erreur : {e}")
 
-<div align="center">
+# Utilisation
+check_user_access("admin_1")  # Affiche les droits d'administration
+check_user_access("user_42")  # Affiche les droits d'écriture
+```
 
-| Métrique                   | Amélioration | Impact                   |
-| -------------------------- | ------------ | ------------------------ |
-| **Temps de Développement** | -60%         | ⚡ Accélération majeure  |
-| **Qualité du Code**        | +200%        | 🎯 Code production-ready |
-| **Gestion des Erreurs**    | +300%        | 🛡️ Robustesse accrue     |
-| **Documentation**          | +400%        | 📚 Maintenance facilitée |
+##### Notes
 
-</div>
+- Les permissions sont retournées par ressource
+- Un utilisateur peut avoir plusieurs niveaux de permission sur une même ressource
+- Les permissions sont vérifiées au moment de l'appel
+- Le contexte système permet de gérer différents environnements (dev, prod, etc.)
 
-### 🎯 **Recommandations Clés**
+## 📊 Analyse de la Documentation
 
-> **💡 Pour des prompts efficaces:**
->
-> - Soyez spécifique dans vos demandes
-> - Incluez des exemples concrets
-> - Précisez les contraintes techniques
-> - Demandez la documentation et les tests
+### Points Forts
 
-> **⚡ Pour un développement optimal:**
->
-> - Utilisez le contexte du projet entier
-> - Itérez sur les prompts pour affiner
-> - Combinez IA et expertise humaine
-> - Validez toujours le code généré
+1. **Structure Claire et Organisée**
 
-## 🤝 Contribution
+   - Installation et prérequis bien détaillés
+   - Exemples de code concrets et complets
+   - Sections logiquement ordonnées
 
-Les contributions sont les bienvenues ! Voici comment contribuer :
+2. **Exemples Complets**
 
-1. Fork le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
+   - Code d'utilisation basique et avancé
+   - Gestion des erreurs illustrée
+   - Cas d'utilisation réels montrés
 
-## 📝 Licence
+3. **Documentation Technique Détaillée**
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+   - Types de données précisés
+   - Exceptions documentées
+   - Paramètres clairement décrits
 
----
+4. **Bonne Pratique de Développement**
+   - Instructions de contribution incluses
+   - Notes importantes mises en évidence
+   - Environnements différents pris en compte
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+### Points à Améliorer
+
+1. **Documentation du Code Source**
+
+   - Ajouter des docstrings plus détaillés dans le code
+   - Documenter les méthodes privées
+   - Inclure des exemples dans les docstrings
+
+2. **Tests et Validation**
+
+   - Ajouter une section sur les tests unitaires
+   - Inclure des exemples de tests
+   - Documenter la couverture de tests
+
+3. **Sécurité**
+   - Ajouter des avertissements de sécurité
+   - Documenter les bonnes pratiques
+   - Inclure des exemples de configuration sécurisée
+
+### Recommandations
+
+1. **Pour la Documentation**
+
+   - Ajouter un diagramme de flux pour les permissions
+   - Inclure une section FAQ
+   - Ajouter des exemples de cas d'erreur courants
+
+2. **Pour le Code**
+
+   - Ajouter des annotations de type plus détaillées
+   - Inclure des commentaires sur les algorithmes complexes
+   - Documenter les limites de performance
+
+3. **Pour les Utilisateurs**
+   - Ajouter une section "Démarrage Rapide"
+   - Inclure des exemples de migration
+   - Documenter les changements de version
+
+### Conclusion
+
+La documentation est globalement de bonne qualité et suffisante pour un développeur expérimenté. Elle couvre les aspects essentiels :
+
+- Installation et configuration
+- Utilisation basique et avancée
+- Gestion des erreurs
+- Exemples concrets
+
+Cependant, elle pourrait être améliorée pour :
+
+- Les débutants (plus d'exemples simples)
+- La maintenance (plus de détails techniques)
+- La sécurité (plus de bonnes pratiques)
+
+La documentation actuelle est un bon point de départ mais pourrait être enrichie pour couvrir plus de cas d'utilisation et de scénarios.
+
+## 📞 Contact
+
+Pour toute question ou suggestion, n'hésitez pas à me contacter :
+
+- 📧 Email : [click me](mailto:mouadmoustafid@gmail.com)
+
